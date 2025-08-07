@@ -102,6 +102,8 @@ Distribution of text document follows [CC BY-SA 4.0](https://creativecommons.org
 
 You can directly use them for non-profit purposes without any modification. Charged distribution of them is not allowed if not permitted.
 
+For distribution and deployment on various platforms, please add a link to this repository.
+
 ## Additional Notes
 
 So-called *image(s)* in this document refers to things like virtual machine images, docker images, etc. It does not refer to images in the sense of pictures.
