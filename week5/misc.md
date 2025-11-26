@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 简单 | [PlzLoveMe.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/PlzLoveMe.zip) |
+| PangBai | 简单 | [PlzLoveMe.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/PlzLoveMe.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{giveMeloveNoWloveNoW}</code>
@@ -30,7 +30,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| w3nx1z1 | 中等 | [zipmaster.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/zipmaster.zip) |
+| w3nx1z1 | 中等 | [zipmaster.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/zipmaster.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{ecebbd61-2bb9-4eda-b4ca-f24b895be2e3}</code>
@@ -42,7 +42,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| 椰奶 | 困难 | [iwanna_rust.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/iwanna_rust.zip) | [newstar-2024:week5_iwannarust](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_iwannarust) | `9999` |
+| 椰奶 | 困难 | [iwanna_rust.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/iwanna_rust.zip) | [newstar-2024:week5_iwannarust](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_iwannarust) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| inkey | 中等 | [C_or_CPP.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/C_or_CPP.zip) | [newstar-2024:week5_corcpp](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_corcpp) | `9999` |
+| inkey | 中等 | [C_or_CPP.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/C_or_CPP.zip) | [newstar-2024:week5_corcpp](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_corcpp) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -15,7 +15,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| sekiro | 困难 | [EldenRing.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/EldenRing.zip) | [newstar-2024:week5_eldenring](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_eldenring) | `9999` |
+| sekiro | 困难 | [EldenRing.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/EldenRing.zip) | [newstar-2024:week5_eldenring](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_eldenring) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -26,7 +26,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| inkey | 困难 | [No_Output.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/No_Output.zip) | [newstar-2024:week5_nooutput](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_nooutput) | `9999` |
+| inkey | 困难 | [No_Output.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/No_Output.zip) | [newstar-2024:week5_nooutput](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_nooutput) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -37,7 +37,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| inkey | 困难 | [Simple_Shellcode.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/Simple_Shellcode.zip) | [newstar-2024:week5_simpleshellcode](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_simpleshellcode) | `9999` |
+| inkey | 困难 | [Simple_Shellcode.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/Simple_Shellcode.zip) | [newstar-2024:week5_simpleshellcode](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_simpleshellcode) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| tgrddf55 | 签到 | [MY_ARM.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/MY_ARM.zip) |
+| tgrddf55 | 签到 | [MY_ARM.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/MY_ARM.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{ARM__@rch1t3ctuRe_-n3eds_-t0__be_-deBugged__us1ng-_QEMU__!}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| 0xA1pha | 简单 | [lock.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/lock.zip) |
+| 0xA1pha | 简单 | [lock.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/lock.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{d6cf50e2736849b4ba21}</code>
@@ -30,7 +30,7 @@ PS: 本题如果运行不了，大概率是缺库。
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| a | 中等 | [jun-junkcode.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/jun-junkcode.zip) |
+| a | 中等 | [jun-junkcode.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/jun-junkcode.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{G00d_jOb_!_7h1s_i5_nOt_0nIy_junkc0d3}</code>
@@ -42,7 +42,7 @@ PS: 本题如果运行不了，大概率是缺库。
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 困难 | [ohn_flutter.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/ohn_flutter.zip) |
+| PangBai | 困难 | [ohn_flutter.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/ohn_flutter.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{U_@r4_F1u774r_r4_m@ster}</code>
@@ -54,7 +54,7 @@ PS: 本题如果运行不了，大概率是缺库。
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| straw | 困难 | [pangbai-terra2.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai-terra2.zip) |
+| straw | 困难 | [pangbai-terra2.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai-terra2.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{W0w_y0u_$01v3_VM!!}</code>
@@ -70,7 +70,7 @@ PangBai 在游玩泰拉瑞亚一个星期后，成功打过了最终 Boss 月球
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| straw | 困难 | [pangbai-terra3.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai-terra3.zip) |
+| straw | 困难 | [pangbai-terra3.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai-terra3.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Sw1ft_$0_funny!}</code>

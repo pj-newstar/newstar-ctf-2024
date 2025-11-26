@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 简单 | [AmazingGame_1.0.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/AmazingGame_1.0.zip) |
+| PangBai | 简单 | [AmazingGame_1.0.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/AmazingGame_1.0.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{U_W1n!!_7he_g@m4}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| 1b5lda | 简单 | [BGM.31693E4A.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/BGM.31693E4A.zip) |
+| 1b5lda | 简单 | [BGM.31693E4A.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/BGM.31693E4A.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{2024093020241103}</code>
@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| w3nx1z1 | 简单 | [OSINT-MASTER.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/OSINT-MASTER.zip) |
+| w3nx1z1 | 简单 | [OSINT-MASTER.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/OSINT-MASTER.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{MU5156_济宁市}</code>
@@ -42,7 +42,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| yixinBC | 中等 | [ez_jail.0CA949E649954551.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/ez_jail.0CA949E649954551.zip) | [newstar-2024:week3_ez_jail](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week3_ez_jail) | `9999` |
+| yixinBC | 中等 | [ez_jail.0CA949E649954551.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/ez_jail.0CA949E649954551.zip) | [newstar-2024:week3_ez_jail](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week3_ez_jail) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

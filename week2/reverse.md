@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| tgrddf55 | 简单 | [Dirty_flowers.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Dirty_flowers.zip) |
+| tgrddf55 | 简单 | [Dirty_flowers.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/Dirty_flowers.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{A5s3mB1y_1s_r3ally_funDAm3nta1}</code>
@@ -16,7 +16,7 @@ IDA 的 F5 怎么失效了
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Chovy | 简单 | [drink_tea.rar](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/drink_tea.rar) |
+| Chovy | 简单 | [drink_tea.rar](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/drink_tea.rar) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{There_R_TEA_XTEA_and_XXTEA}</code>
@@ -28,7 +28,7 @@ IDA 的 F5 怎么失效了
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| straw | 简单 | [pangbai-terra1.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/pangbai-terra1.zip) |
+| straw | 简单 | [pangbai-terra1.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/pangbai-terra1.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{my_D3bugg3r_may_1s_banned?}</code>
@@ -40,7 +40,7 @@ PangBai 在游玩泰拉瑞亚时，想要做一个红石计数器来记录自己
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| nuthecz | 简单 | [UPX.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/UPX.zip) |
+| nuthecz | 简单 | [UPX.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/UPX.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Do_you_know_UPX?}</code>
@@ -52,7 +52,7 @@ PangBai 在游玩泰拉瑞亚时，想要做一个红石计数器来记录自己
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 中等 | [ezencrypt.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/ezencrypt.zip) |
+| PangBai | 中等 | [ezencrypt.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/ezencrypt.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{0hh_U_kn0w_7h15_5ki11}</code>
@@ -64,7 +64,7 @@ PangBai 在游玩泰拉瑞亚时，想要做一个红石计数器来记录自己
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| nuthecz | 中等 | [Ptrace.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Ptrace.zip) |
+| nuthecz | 中等 | [Ptrace.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/Ptrace.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Do_you_really_know_ptrace?}</code>

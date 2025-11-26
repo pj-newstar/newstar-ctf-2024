@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| korey | 签到 | [game.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/game.zip) | [newstar-2024:week1_game](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_game) | `9999` |
+| korey | 签到 | [game.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/game.zip) | [newstar-2024:week1_game](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_game) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -15,7 +15,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| korey | 签到 | [nc.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/nc.zip) | [newstar-2024:week1_real_login](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_real_login) | `9999` |
+| korey | 签到 | [nc.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/nc.zip) | [newstar-2024:week1_real_login](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_real_login) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -26,7 +26,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| inkey | 简单 | [gdb.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/gdb.zip) | [newstar-2024:week1_gdb](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_gdb) | `9999` |
+| inkey | 简单 | [gdb.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/gdb.zip) | [newstar-2024:week1_gdb](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_gdb) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -37,7 +37,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| korey | 简单 | [overwrite.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/overwrite.zip) | [newstar-2024:week1_overwrite](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_overwrite) | `9999` |
+| korey | 简单 | [overwrite.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/overwrite.zip) | [newstar-2024:week1_overwrite](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_overwrite) | `9999` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

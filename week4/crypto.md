@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| saga131 | 简单 | [task_euler.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/task_euler.zip) |
+| saga131 | 简单 | [task_euler.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/task_euler.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{y0u_really_kn0w_the_phi}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| vil10n | 简单 | [sage.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/sage.zip) |
+| vil10n | 简单 | [sage.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/sage.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{small_dp_is_not_secure_adhfaiuhaph}</code>
@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Zechariah | 中等 | [InName.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/InName.zip) |
+| Zechariah | 中等 | [InName.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/InName.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{rE@L_d@m@9e_15_7h3_mo5t_au7hEn7ic_dam49E}</code>

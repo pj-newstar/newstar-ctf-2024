@@ -20,7 +20,7 @@ This is a base question!
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Zechariah | 签到 | [xor.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/xor.zip) |
+| Zechariah | 签到 | [xor.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/xor.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{0ops!_you_know_XOR!}</code>
@@ -32,7 +32,7 @@ This is a base question!
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| jingyi | 简单 | [yiyanmiaole.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/yiyanmiaole.zip) |
+| jingyi | 简单 | [yiyanmiaole.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/yiyanmiaole.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{9cd4b35a-affc-422a-9862-58e1cc3ff8d2}</code>

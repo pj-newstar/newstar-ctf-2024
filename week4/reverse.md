@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| tgrddf55 | 简单 | [easygui_2.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/easygui_2.zip) |
+| tgrddf55 | 简单 | [easygui_2.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/easygui_2.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{GU!_r3v3R5e_3nG1n3er1ng_i5_v3ry_s1mpl3}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| ATRI | 中等 | [ezrust.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezrust.zip) |
+| ATRI | 中等 | [ezrust.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezrust.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{y0U_@r3_90od_@t_rust}</code>
@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| tgrddf55 | 中等 | [MazE.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/MazE.zip) |
+| tgrddf55 | 中等 | [MazE.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/MazE.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{4ed5a17ee7aeb95fcf12a3b96a9d4e6f}</code>
@@ -40,7 +40,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 中等 | [PlzDebugMe.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/PlzDebugMe.zip) |
+| PangBai | 中等 | [PlzDebugMe.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/PlzDebugMe.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{U_@r4_r4v4r54_m@s74r}</code>
@@ -52,7 +52,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Ajarbox | 困难 | [OVO.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/OVO.zip) |
+| Ajarbox | 困难 | [OVO.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/OVO.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{00000001400EF508}</code>

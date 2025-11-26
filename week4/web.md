@@ -49,7 +49,7 @@ caef11 有一个自己的文件备份平台，但是平台的密码似乎在哪�
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| D1anash1ba | 困难 | [ezpollute.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezpollute.zip) | [newstar-2024:week4_ezpollute](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week4_ezpollute) | `3000` |
+| D1anash1ba | 困难 | [ezpollute.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezpollute.zip) | [newstar-2024:week4_ezpollute](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week4_ezpollute) | `3000` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>
@@ -60,7 +60,7 @@ caef11 有一个自己的文件备份平台，但是平台的密码似乎在哪�
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| Cnily03 | 困难 | [pangbai4.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/pangbai4.zip) | [newstar-2024:week4_pangbai4](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week4_pangbai4) | `8000` |
+| Cnily03 | 困难 | [pangbai4.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/pangbai4.zip) | [newstar-2024:week4_pangbai4](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week4_pangbai4) | `8000` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| tgrddf55 | 签到 | [begin.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/begin.zip) |
+| tgrddf55 | 签到 | [begin.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/begin.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Mak3_aN_3Ff0rt_tO_5eArcH_F0r_th3_f14g_C0Rpse}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| 0xA1pha | 简单 | [base64.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/base64.zip) |
+| 0xA1pha | 简单 | [base64.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/base64.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{y0u_kn0w_base64_well}</code>
@@ -28,7 +28,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| kw17 | 简单 | [ez_debug.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/ez_debug.zip) |
+| kw17 | 简单 | [ez_debug.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/ez_debug.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{y0u_ar3_g0od_@_Debu9}</code>
@@ -40,7 +40,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 简单 | [ezAndroidStudy.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/ezAndroidStudy.zip) |
+| PangBai | 简单 | [ezAndroidStudy.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/ezAndroidStudy.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Y0u_@r4_900d_andr01d_r4V4rs4r}</code>
@@ -52,7 +52,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| tgrddf55 | 简单 | [Simple_encryption.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/Simple_encryption.zip) |
+| tgrddf55 | 简单 | [Simple_encryption.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/Simple_encryption.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{IT_15_R3Al1y_V3Ry-51Mp1e}</code>

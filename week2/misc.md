@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| unk | 签到 | [wireshark_checkin.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/wireshark_checkin.zip) |
+| unk | 签到 | [wireshark_checkin.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/wireshark_checkin.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{ez_traffic_analyze_isn't_it}</code>
@@ -16,7 +16,7 @@ un 搭建了一个简单的 http 服务器，但是不小心把重要文件删�
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| findkey | 简单 | [yuanshen.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/yuanshen.zip) |
+| findkey | 简单 | [yuanshen.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/yuanshen.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{maybegenshinisagoodgame}</code>
@@ -28,7 +28,7 @@ un 搭建了一个简单的 http 服务器，但是不小心把重要文件删�
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Lufiende | 简单 | [xiaoming_w2.txt](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/xiaoming_w2.txt) |
+| Lufiende | 简单 | [xiaoming_w2.txt](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/xiaoming_w2.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{ZDFyVDlfdTNlUl9wNHNTdzByRF9IQUNLRVIh}</code>
@@ -60,7 +60,7 @@ PS: 如果你眼力好，肉眼能从视频读出来，也是你的水平。祝�
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| unk | 简单 | [wireshark_secret.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/wireshark_secret.zip) |
+| unk | 简单 | [wireshark_secret.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/wireshark_secret.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{you_are_gooddddd}</code>
@@ -72,7 +72,7 @@ un 偷看涩图，被抓到流量了
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Red Orange | 中等 | [secretofwords.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/secretofwords.zip) |
+| Red Orange | 中等 | [secretofwords.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/secretofwords.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{you_h4ve_4nyth1n9}</code>
@@ -84,7 +84,7 @@ un 偷看涩图，被抓到流量了
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| endprophet | 中等 | [Hertas_Study.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Hertas_Study.zip) |
+| endprophet | 中等 | [Hertas_Study.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/Hertas_Study.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{sH3_i4_S0_6eAut1fuL.}</code>

@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| 路人甲 | 简单 | [what_name.7z](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/what_name.7z) |
+| 路人甲 | 简单 | [what_name.7z](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/what_name.7z) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{WH47_C4N_1_54y???}</code>
@@ -16,7 +16,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| 0xA1pha | 简单 | [pangbai3.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/pangbai3.zip) |
+| 0xA1pha | 简单 | [pangbai3.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/pangbai3.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Y0u_Know_Py1nstall3r_W311!}</code>
@@ -28,7 +28,7 @@ PangBai 住院了，医生说他体内大量的丙酮酸羧化酶（PYC）基因
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| tgrddf55 | 简单 | [SMc_math.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/SMc_math.zip) |
+| tgrddf55 | 简单 | [SMc_math.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/SMc_math.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{D0_Y0u_Kn0w_sMC_4nD_Z3}</code>
@@ -40,7 +40,7 @@ Simultaneous Multivariate Calculations ——我才不会告诉你 SMC 其实是
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| kw17 | 中等 | [011vm.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/011vm.zip) |
+| kw17 | 中等 | [011vm.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/011vm.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{011vm_1s_eZ_But_C0MP1EX_!!}</code>
@@ -52,7 +52,7 @@ Simultaneous Multivariate Calculations ——我才不会告诉你 SMC 其实是
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| tgrddf55 | 中等 | [flowering_shrubs.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/flowering_shrubs.zip) |
+| tgrddf55 | 中等 | [flowering_shrubs.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/flowering_shrubs.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{y0u_C4n_3a51ly_Rem0v3_CoNfu510n-!!}</code>
@@ -64,7 +64,7 @@ Simultaneous Multivariate Calculations ——我才不会告诉你 SMC 其实是
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| nuthecz | 中等 | [simpleAndroid.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/simpleAndroid.zip) |
+| nuthecz | 中等 | [simpleAndroid.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/simpleAndroid.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{android_is_simple!}</code>
@@ -76,7 +76,7 @@ Simultaneous Multivariate Calculations ——我才不会告诉你 SMC 其实是
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| PangBai | 困难 | [SecretsOfKawaii.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/SecretsOfKawaii.zip) |
+| PangBai | 困难 | [SecretsOfKawaii.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/SecretsOfKawaii.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{U_D0_Kn0w_Kawa11_P@n9_B@1}</code>

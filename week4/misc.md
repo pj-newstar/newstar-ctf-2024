@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| CH0ico | 签到 | [CRC.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/CRC.zip) |
+| CH0ico | 签到 | [CRC.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/CRC.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{Then_d0_you_kn0w_w6at_Hanx1n_cod3_1s?}</code>
@@ -16,7 +16,7 @@ Tip: 什么？这可不是图寻，这是货真价实的 hint
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| yixinBC | 简单 | [Alt.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/Alt.zip) |
+| yixinBC | 简单 | [Alt.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/Alt.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{键盘流量_with_alt_和窗户_15_5o0OO0o_酷}</code>
@@ -46,7 +46,7 @@ Tip: flag 包含非 ASCII 字符，且语义较为通顺
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Lufiende | 困难 | [xiaoming_encrypt.txt](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/xiaoming_encrypt.txt) |
+| Lufiende | 困难 | [xiaoming_encrypt.txt](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/xiaoming_encrypt.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{5ZCb44Gv5Y+W6K+B5pys5b2T44Gr5LiK5omL}</code>
@@ -60,7 +60,7 @@ Tip: flag 包含非 ASCII 字符，且语义较为通顺
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Lufiende | 困难 | [xiaoming_music.txt](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/xiaoming_music.txt) |
+| Lufiende | 困难 | [xiaoming_music.txt](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/xiaoming_music.txt) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{wowgoodfzforensics}</code>

@@ -15,7 +15,7 @@
 
 | 出题人 | 难度 | 附件 | 环境镜像 | 端口 |
 |-----|-----|-----|-----|-----|
-| Cnily03 | 简单 | [pangbai5.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai5.zip) | [newstar-2024:week5_pangbai5](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_pangbai5) | `3000` |
+| Cnily03 | 简单 | [pangbai5.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai5.zip) | [newstar-2024:week5_pangbai5](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week5_pangbai5) | `3000` |
 
 > <details><summary><strong>FLAG:</strong> 动态</summary>
 > </details>

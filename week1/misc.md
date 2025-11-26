@@ -4,7 +4,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| yixinBC | 签到 | [decompress.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress.zip) |
+| yixinBC | 签到 | [decompress.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{c6edaba55bac51875a215e2de11c35dd}</code>
@@ -18,7 +18,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Sethos | 签到 | [pleasingMusic.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/pleasingMusic.zip) |
+| Sethos | 签到 | [pleasingMusic.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/pleasingMusic.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{ez_morse_code}</code>
@@ -30,7 +30,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| Sethos | 简单 | [duihuanma.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/duihuanma.zip) |
+| Sethos | 简单 | [duihuanma.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/duihuanma.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{La_vaguelette}</code>
@@ -42,7 +42,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| yixinBC | 简单 | [decompress_3C4D6F9291D1FFF7.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress_3C4D6F9291D1FFF7.zip) |
+| yixinBC | 简单 | [decompress_3C4D6F9291D1FFF7.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress_3C4D6F9291D1FFF7.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{U_R_th3_ma5ter_0f_dec0mpress}</code>
@@ -54,7 +54,7 @@
 
 | 出题人 | 难度 | 附件 |
 |-----|-----|-----|
-| MonianHello | 简单 | [Labyrinth.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/Labyrinth.zip) |
+| MonianHello | 简单 | [Labyrinth.zip](https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/Labyrinth.zip) |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{e33bb7a1-ac94-4d15-8ff7-fd8c88547b43}</code>
