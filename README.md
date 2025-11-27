@@ -69,9 +69,9 @@ interface Metadata {
    * Plugin ids, each plugin has its own schema (or add fields on the global metadata schema).
    * This field is only reserved to avoid conflicts between fields, or categorize extra data.
    */
-  plugins: {
+  plugins?: {
     id: string; // plugin id
-    data: {
+    data?: {
       [key: string]: any;
     };
   }[];
