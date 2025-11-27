@@ -56,9 +56,7 @@
     "category": ["Week1", "Misc"],
     "tags": ["签到"],
     "author": "yixinBC",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress.zip"],
     "services": [],
     "answer": "flag{c6edaba55bac51875a215e2de11c35dd}",
     "difficulty": 0
@@ -84,9 +82,7 @@
     "category": ["Week1", "Misc"],
     "tags": ["简单"],
     "author": "Sethos",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/duihuanma.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/duihuanma.zip"],
     "services": [],
     "answer": "flag{La_vaguelette}",
     "difficulty": 1
@@ -112,9 +108,7 @@
     "category": ["Week1", "Misc"],
     "tags": ["简单"],
     "author": "MonianHello",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/Labyrinth.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/Labyrinth.zip"],
     "services": [],
     "answer": "flag{e33bb7a1-ac94-4d15-8ff7-fd8c88547b43}",
     "difficulty": 1
@@ -129,6 +123,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week1_whereisflag",
         "image": "docker.io/openctf/newstar-2024:week1_whereisflag",
         "exposes": [
           {
@@ -154,6 +149,7 @@
     "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/game.zip"],
     "services": [
       {
+        "name": "week1_game",
         "image": "docker.io/openctf/newstar-2024:week1_game",
         "exposes": [
           {
@@ -179,6 +175,7 @@
     "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/nc.zip"],
     "services": [
       {
+        "name": "week1_real_login",
         "image": "docker.io/openctf/newstar-2024:week1_real_login",
         "exposes": [
           {
@@ -204,6 +201,7 @@
     "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/gdb.zip"],
     "services": [
       {
+        "name": "week1_gdb",
         "image": "docker.io/openctf/newstar-2024:week1_gdb",
         "exposes": [
           {
@@ -226,11 +224,10 @@
     "category": ["Week1", "Pwn"],
     "tags": ["简单"],
     "author": "korey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/overwrite.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/overwrite.zip"],
     "services": [
       {
+        "name": "week1_overwrite",
         "image": "docker.io/openctf/newstar-2024:week1_overwrite",
         "exposes": [
           {
@@ -265,9 +262,7 @@
     "category": ["Week1", "Reverse"],
     "tags": ["简单"],
     "author": "0xA1pha",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/base64.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/base64.zip"],
     "services": [],
     "answer": "flag{y0u_kn0w_base64_well}",
     "difficulty": 1
@@ -279,9 +274,7 @@
     "category": ["Week1", "Reverse"],
     "tags": ["简单"],
     "author": "kw17",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/ez_debug.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week1/ez_debug.zip"],
     "services": [],
     "answer": "flag{y0u_ar3_g0od_@_Debu9}",
     "difficulty": 1
@@ -324,6 +317,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week1_headach3",
         "image": "docker.io/openctf/newstar-2024:week1_headach3",
         "exposes": [
           {
@@ -349,6 +343,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week1_huiyingde",
         "image": "docker.io/openctf/newstar-2024:week1_huiyingde",
         "exposes": [
           {
@@ -374,6 +369,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week1_zhixieweiji",
         "image": "docker.io/openctf/newstar-2024:week1_zhixieweiji",
         "exposes": [
           {
@@ -399,6 +395,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week1_pangbai1",
         "image": "docker.io/openctf/newstar-2024:week1_pangbai1",
         "exposes": [
           {
@@ -424,6 +421,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week1_pidan",
         "image": "docker.io/openctf/newstar-2024:week1_pidan",
         "exposes": [
           {
@@ -446,9 +444,7 @@
     "category": ["Week2", "Crypto"],
     "tags": ["简单"],
     "author": "coperlm",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/chalichaqi.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/chalichaqi.zip"],
     "services": [],
     "answer": "flag{f14gg9_te2_1i_7ea_7}",
     "difficulty": 1
@@ -514,9 +510,7 @@
     "category": ["Week2", "Misc"],
     "tags": ["简单"],
     "author": "findkey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/yuanshen.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/yuanshen.zip"],
     "services": [],
     "answer": "flag{maybegenshinisagoodgame}",
     "difficulty": 1
@@ -596,11 +590,10 @@
     "category": ["Week2", "Pwn"],
     "tags": ["简单"],
     "author": "korey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/ez_fmt.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/ez_fmt.zip"],
     "services": [
       {
+        "name": "week2_ezfmt",
         "image": "docker.io/openctf/newstar-2024:week2_ezfmt",
         "exposes": [
           {
@@ -623,11 +616,10 @@
     "category": ["Week2", "Pwn"],
     "tags": ["简单"],
     "author": "a1te",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/ez_game.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/ez_game.zip"],
     "services": [
       {
+        "name": "week2_ez_game",
         "image": "docker.io/openctf/newstar-2024:week2_ez_game",
         "exposes": [
           {
@@ -655,6 +647,7 @@
     ],
     "services": [
       {
+        "name": "week2_inverted_world",
         "image": "docker.io/openctf/newstar-2024:week2_inverted_world",
         "exposes": [
           {
@@ -677,11 +670,10 @@
     "category": ["Week2", "Pwn"],
     "tags": ["简单"],
     "author": "inkey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/My_GBC.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/My_GBC.zip"],
     "services": [
       {
+        "name": "week2_mygbc",
         "image": "docker.io/openctf/newstar-2024:week2_mygbc",
         "exposes": [
           {
@@ -704,11 +696,10 @@
     "category": ["Week2", "Pwn"],
     "tags": ["中等"],
     "author": "0xAkyOI",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/Bad_Asm.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/Bad_Asm.zip"],
     "services": [
       {
+        "name": "week2_bad_asm",
         "image": "docker.io/openctf/newstar-2024:week2_bad_asm",
         "exposes": [
           {
@@ -745,9 +736,7 @@
     "category": ["Week2", "Reverse"],
     "tags": ["简单"],
     "author": "Chovy",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/drink_tea.rar"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/drink_tea.rar"],
     "services": [],
     "answer": "flag{There_R_TEA_XTEA_and_XXTEA}",
     "difficulty": 1
@@ -785,9 +774,7 @@
     "category": ["Week2", "Reverse"],
     "tags": ["中等"],
     "author": "PangBai",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/ezencrypt.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/ezencrypt.zip"],
     "services": [],
     "answer": "flag{0hh_U_kn0w_7h15_5ki11}",
     "difficulty": 2
@@ -799,9 +786,7 @@
     "category": ["Week2", "Reverse"],
     "tags": ["中等"],
     "author": "nuthecz",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/Ptrace.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week2/Ptrace.zip"],
     "services": [],
     "answer": "flag{Do_you_really_know_ptrace?}",
     "difficulty": 2
@@ -816,6 +801,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week2_bajuyingwen",
         "image": "docker.io/openctf/newstar-2024:week2_bajuyingwen",
         "exposes": [
           {
@@ -841,6 +827,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week2_fuduji",
         "image": "docker.io/openctf/newstar-2024:week2_fuduji",
         "exposes": [
           {
@@ -866,6 +853,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week2_yishidelalian",
         "image": "docker.io/openctf/newstar-2024:week2_yishidelalian",
         "exposes": [
           {
@@ -891,6 +879,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week2_pidan_plus",
         "image": "docker.io/openctf/newstar-2024:week2_pidan_plus",
         "exposes": [
           {
@@ -916,6 +905,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week2_pangbai2",
         "image": "docker.io/openctf/newstar-2024:week2_pangbai2",
         "exposes": [
           {
@@ -938,9 +928,7 @@
     "category": ["Week3", "Crypto"],
     "tags": ["简单"],
     "author": "Zechariah",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/no_thank.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/no_thank.zip"],
     "services": [],
     "answer": "flag{HOw_c4REfu1Ly_yOu_O65ERve!}",
     "difficulty": 1
@@ -952,9 +940,7 @@
     "category": ["Week3", "Crypto"],
     "tags": ["简单"],
     "author": "vil10n",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/newstory1.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/newstory1.zip"],
     "services": [],
     "answer": "flag{b14375358eabfea4e405bd2186936289}",
     "difficulty": 1
@@ -978,9 +964,7 @@
     "category": ["Week3", "Crypto"],
     "tags": ["中等"],
     "author": "vil10n",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/newstory2.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/newstory2.zip"],
     "services": [],
     "answer": "flag{8bc383165248f2e45a6910960a61e6a8}",
     "difficulty": 2
@@ -992,9 +976,7 @@
     "category": ["Week3", "Crypto"],
     "tags": ["困难"],
     "author": "lxdy3361mm0",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/two_oriole.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/two_oriole.zip"],
     "services": [],
     "answer": "flag{V_me_the_flag}",
     "difficulty": 3
@@ -1053,6 +1035,7 @@
     ],
     "services": [
       {
+        "name": "week3_ez_jail",
         "image": "docker.io/openctf/newstar-2024:week3_ez_jail",
         "exposes": [
           {
@@ -1078,6 +1061,7 @@
     "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/scanf.zip"],
     "services": [
       {
+        "name": "week3_scanf",
         "image": "docker.io/openctf/newstar-2024:week3_scanf",
         "exposes": [
           {
@@ -1105,6 +1089,7 @@
     ],
     "services": [
       {
+        "name": "week3_easy_shellcode",
         "image": "docker.io/openctf/newstar-2024:week3_easy_shellcode",
         "exposes": [
           {
@@ -1127,11 +1112,10 @@
     "category": ["Week3", "Pwn"],
     "tags": ["简单"],
     "author": "qy",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/ezcanary.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/ezcanary.zip"],
     "services": [
       {
+        "name": "week3_ezcanary",
         "image": "docker.io/openctf/newstar-2024:week3_ezcanary",
         "exposes": [
           {
@@ -1159,6 +1143,7 @@
     ],
     "services": [
       {
+        "name": "week3_one_last_b1te",
         "image": "docker.io/openctf/newstar-2024:week3_one_last_b1te",
         "exposes": [
           {
@@ -1181,9 +1166,7 @@
     "category": ["Week3", "Reverse"],
     "tags": ["简单"],
     "author": "路人甲",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/what_name.7z"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/what_name.7z"],
     "services": [],
     "answer": "flag{WH47_C4N_1_54y???}",
     "difficulty": 1
@@ -1195,9 +1178,7 @@
     "category": ["Week3", "Reverse"],
     "tags": ["简单"],
     "author": "0xA1pha",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/pangbai3.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/pangbai3.zip"],
     "services": [],
     "answer": "flag{Y0u_Know_Py1nstall3r_W311!}",
     "difficulty": 1
@@ -1209,9 +1190,7 @@
     "category": ["Week3", "Reverse"],
     "tags": ["简单"],
     "author": "tgrddf55",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/SMc_math.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week3/SMc_math.zip"],
     "services": [],
     "answer": "flag{D0_Y0u_Kn0w_sMC_4nD_Z3}",
     "difficulty": 1
@@ -1280,6 +1259,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week3_ccb",
         "image": "docker.io/openctf/newstar-2024:week3_ccb",
         "exposes": [
           {
@@ -1305,6 +1285,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week3_blindsql1",
         "image": "docker.io/openctf/newstar-2024:week3_blindsql1",
         "exposes": [
           {
@@ -1330,6 +1311,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week3_choupidecalc",
         "image": "docker.io/openctf/newstar-2024:week3_choupidecalc",
         "exposes": [
           {
@@ -1355,6 +1337,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week3_include_me",
         "image": "docker.io/openctf/newstar-2024:week3_include_me",
         "exposes": [
           {
@@ -1380,6 +1363,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week3_zhezhaopianshinima",
         "image": "docker.io/openctf/newstar-2024:week3_zhezhaopianshinima",
         "exposes": [
           {
@@ -1402,9 +1386,7 @@
     "category": ["Week4", "Crypto"],
     "tags": ["简单"],
     "author": "saga131",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/task_euler.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/task_euler.zip"],
     "services": [],
     "answer": "flag{y0u_really_kn0w_the_phi}",
     "difficulty": 1
@@ -1428,9 +1410,7 @@
     "category": ["Week4", "Crypto"],
     "tags": ["中等"],
     "author": "Zechariah",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/InName.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/InName.zip"],
     "services": [],
     "answer": "flag{rE@L_d@m@9e_15_7h3_mo5t_au7hEn7ic_dam49E}",
     "difficulty": 2
@@ -1510,11 +1490,10 @@
     "category": ["Week4", "Pwn"],
     "tags": ["简单"],
     "author": "inkey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/Sign_in.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/Sign_in.zip"],
     "services": [
       {
+        "name": "week4_signin",
         "image": "docker.io/openctf/newstar-2024:week4_signin",
         "exposes": [
           {
@@ -1537,11 +1516,10 @@
     "category": ["Week4", "Pwn"],
     "tags": ["中等"],
     "author": "inkey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/Maze_Rust.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/Maze_Rust.zip"],
     "services": [
       {
+        "name": "week4_mazerust",
         "image": "docker.io/openctf/newstar-2024:week4_mazerust",
         "exposes": [
           {
@@ -1564,11 +1542,10 @@
     "category": ["Week4", "Pwn"],
     "tags": ["中等"],
     "author": "korey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/reread.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/reread.zip"],
     "services": [
       {
+        "name": "week4_reread",
         "image": "docker.io/openctf/newstar-2024:week4_reread",
         "exposes": [
           {
@@ -1591,11 +1568,10 @@
     "category": ["Week4", "Pwn"],
     "tags": ["困难"],
     "author": "inkey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/MakeHero.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/MakeHero.zip"],
     "services": [
       {
+        "name": "week4_makehero",
         "image": "docker.io/openctf/newstar-2024:week4_makehero",
         "exposes": [
           {
@@ -1618,9 +1594,7 @@
     "category": ["Week4", "Reverse"],
     "tags": ["简单"],
     "author": "tgrddf55",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/easygui_2.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/easygui_2.zip"],
     "services": [],
     "answer": "flag{GU!_r3v3R5e_3nG1n3er1ng_i5_v3ry_s1mpl3}",
     "difficulty": 1
@@ -1632,9 +1606,7 @@
     "category": ["Week4", "Reverse"],
     "tags": ["中等"],
     "author": "ATRI",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezrust.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezrust.zip"],
     "services": [],
     "answer": "flag{y0U_@r3_90od_@t_rust}",
     "difficulty": 2
@@ -1658,9 +1630,7 @@
     "category": ["Week4", "Reverse"],
     "tags": ["中等"],
     "author": "PangBai",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/PlzDebugMe.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/PlzDebugMe.zip"],
     "services": [],
     "answer": "flag{U_@r4_r4v4r54_m@s74r}",
     "difficulty": 2
@@ -1687,6 +1657,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week4_blindsql2",
         "image": "docker.io/openctf/newstar-2024:week4_blindsql2",
         "exposes": [
           {
@@ -1712,6 +1683,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week4_ezcms",
         "image": "docker.io/openctf/newstar-2024:week4_ezcms",
         "exposes": [
           {
@@ -1737,6 +1709,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week4_yincangdemima",
         "image": "docker.io/openctf/newstar-2024:week4_yincangdemima",
         "exposes": [
           {
@@ -1762,6 +1735,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week4_chocolate",
         "image": "docker.io/openctf/newstar-2024:week4_chocolate",
         "exposes": [
           {
@@ -1784,11 +1758,10 @@
     "category": ["Week4", "Web"],
     "tags": ["困难"],
     "author": "D1anash1ba",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezpollute.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezpollute.zip"],
     "services": [
       {
+        "name": "week4_ezpollute",
         "image": "docker.io/openctf/newstar-2024:week4_ezpollute",
         "exposes": [
           {
@@ -1811,11 +1784,10 @@
     "category": ["Week4", "Web"],
     "tags": ["困难"],
     "author": "Cnily03",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/pangbai4.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week4/pangbai4.zip"],
     "services": [
       {
+        "name": "week4_pangbai4",
         "image": "docker.io/openctf/newstar-2024:week4_pangbai4",
         "exposes": [
           {
@@ -1838,9 +1810,7 @@
     "category": ["Week5", "Crypto"],
     "tags": ["简单"],
     "author": "jingyi",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/easy_ecc.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/easy_ecc.zip"],
     "services": [],
     "answer": "flag{This_is_the_last_crypto_}",
     "difficulty": 1
@@ -1852,9 +1822,7 @@
     "category": ["Week5", "Crypto"],
     "tags": ["简单"],
     "author": "saga131",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/RSAcmd5.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/RSAcmd5.zip"],
     "services": [],
     "answer": "flag{th1s_1s_my_k3y:adm0n120xbfab06114aa460b85135659e359fe443f9d91950ca95cbb2cbd6f88453e2b08b}",
     "difficulty": 1
@@ -1866,9 +1834,7 @@
     "category": ["Week5", "Crypto"],
     "tags": ["中等"],
     "author": "jingyi",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/no_e_w5.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/no_e_w5.zip"],
     "services": [],
     "answer": "flag{No_course_e_can_play}",
     "difficulty": 2
@@ -1894,9 +1860,7 @@
     "category": ["Week5", "Crypto"],
     "tags": ["困难"],
     "author": "saga131",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/RSAgege.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/RSAgege.zip"],
     "services": [],
     "answer": "flag{u_are_@_master_of_latt1ce_Crypt0gr@phy}",
     "difficulty": 3
@@ -1908,9 +1872,7 @@
     "category": ["Week5", "Misc"],
     "tags": ["简单"],
     "author": "PangBai",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/PlzLoveMe.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/PlzLoveMe.zip"],
     "services": [],
     "answer": "flag{giveMeloveNoWloveNoW}",
     "difficulty": 1
@@ -1925,6 +1887,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week5_pyjail",
         "image": "docker.io/openctf/newstar-2024:week5_pyjail",
         "exposes": [
           {
@@ -1947,9 +1910,7 @@
     "category": ["Week5", "Misc"],
     "tags": ["中等"],
     "author": "w3nx1z1",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/zipmaster.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/zipmaster.zip"],
     "services": [],
     "answer": "flag{ecebbd61-2bb9-4eda-b4ca-f24b895be2e3}",
     "difficulty": 2
@@ -1966,6 +1927,7 @@
     ],
     "services": [
       {
+        "name": "week5_iwannarust",
         "image": "docker.io/openctf/newstar-2024:week5_iwannarust",
         "exposes": [
           {
@@ -1988,11 +1950,10 @@
     "category": ["Week5", "Pwn"],
     "tags": ["中等"],
     "author": "inkey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/C_or_CPP.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/C_or_CPP.zip"],
     "services": [
       {
+        "name": "week5_corcpp",
         "image": "docker.io/openctf/newstar-2024:week5_corcpp",
         "exposes": [
           {
@@ -2015,11 +1976,10 @@
     "category": ["Week5", "Pwn"],
     "tags": ["困难"],
     "author": "sekiro",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/EldenRing.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/EldenRing.zip"],
     "services": [
       {
+        "name": "week5_eldenring",
         "image": "docker.io/openctf/newstar-2024:week5_eldenring",
         "exposes": [
           {
@@ -2042,11 +2002,10 @@
     "category": ["Week5", "Pwn"],
     "tags": ["困难"],
     "author": "inkey",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/No_Output.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/No_Output.zip"],
     "services": [
       {
+        "name": "week5_nooutput",
         "image": "docker.io/openctf/newstar-2024:week5_nooutput",
         "exposes": [
           {
@@ -2075,6 +2034,7 @@
     ],
     "services": [
       {
+        "name": "week5_simpleshellcode",
         "image": "docker.io/openctf/newstar-2024:week5_simpleshellcode",
         "exposes": [
           {
@@ -2097,9 +2057,7 @@
     "category": ["Week5", "Reverse"],
     "tags": ["签到"],
     "author": "tgrddf55",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/MY_ARM.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/MY_ARM.zip"],
     "services": [],
     "answer": "flag{ARM__@rch1t3ctuRe_-n3eds_-t0__be_-deBugged__us1ng-_QEMU__!}",
     "difficulty": 0
@@ -2182,6 +2140,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week5_popchain",
         "image": "docker.io/openctf/newstar-2024:week5_popchain",
         "exposes": [
           {
@@ -2204,11 +2163,10 @@
     "category": ["Week5", "Web"],
     "tags": ["简单"],
     "author": "Cnily03",
-    "attachments": [
-      "https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai5.zip"
-    ],
+    "attachments": ["https://github.com/pj-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai5.zip"],
     "services": [
       {
+        "name": "week5_pangbai5",
         "image": "docker.io/openctf/newstar-2024:week5_pangbai5",
         "exposes": [
           {
@@ -2235,6 +2193,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week5_choupiwangzhan",
         "image": "docker.io/openctf/newstar-2024:week5_choupiwangzhan",
         "exposes": [
           {
@@ -2260,6 +2219,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week5_ezredis",
         "image": "docker.io/openctf/newstar-2024:week5_ezredis",
         "exposes": [
           {
@@ -2285,6 +2245,7 @@
     "attachments": [],
     "services": [
       {
+        "name": "week5_sqlshell",
         "image": "docker.io/openctf/newstar-2024:week5_sqlshell",
         "exposes": [
           {
